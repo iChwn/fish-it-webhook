@@ -1,0 +1,58 @@
+{
+  "received_at": "2026-01-22T07:47:10.391Z",
+  "body": {
+    "username": "LimeHub Bot",
+    "embeds": [
+      {
+        "fields": [
+          {
+            "value": "nahhjadiroblox",
+            "name": "User",
+            "inline": true
+          },
+          {
+            "value": "**Blob Shark**",
+            "name": "Fish Name",
+            "inline": false
+          },
+          {
+            "value": "SECRET",
+            "name": "Rarity",
+            "inline": true
+          },
+          {
+            "value": "542.60 kg",
+            "name": "Weight",
+            "inline": true
+          },
+          {
+            "value": "None",
+            "name": "Mutation",
+            "inline": true
+          },
+          {
+            "value": "98,000 Coins",
+            "name": "Sell Price",
+            "inline": true
+          },
+          {
+            "value": "915/5000",
+            "name": "Backpack",
+            "inline": true
+          }
+        ],
+        "title": "🎣 New Fish Caught!",
+        "footer": {
+          "text": "Current Coins: 44,179,106 | 22 January 2026, 14:47:10"
+        },
+        "color": 16758465,
+        "thumbnail": {
+          "url": "https://tr.rbxcdn.com/180DAY-de341f23e8add220fefbe2db159fd9ec/420/420/Image/Png/noFilter"
+        }
+      }
+    ],
+    "avatar_url": "https://cdn.discordapp.com/attachments/1408262889437134942/1420411647054446683/limehub.jpeg",
+    "content": "@everyone"
+  },
+  "previewText": "<b>🎣 New Fish Caught!</b>\n<i>LimeHub Bot</i>\n\n🐟 <b>Blob Shark</b>\n⚜️ <b>SECRET</b> ✨\n\n👤 <code>nahhjadiroblox</code>   ⚖️ <code>542.60 kg</code>   🧬 <code>None</code>\n💰 <b>98,000 Coins</b>   🎒 <code>915/5000</code>\n\n🧾 <i>Current Coins: 44,179,106 | 22 January 2026, 14:47:10</i>\n\nhttps://tr.rbxcdn.com/180DAY-de341f23e8add220fefbe2db159fd9ec/420/420/Image/Png/noFilter"
+}
