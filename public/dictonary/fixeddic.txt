@@ -1,13 +1,3 @@
-(adj)
-(adv)
-(i)
-(k)
-(l)
-(n)
-(num)
-(pre)
-(pron)
-(v)
 A
 aamiin
 aan
